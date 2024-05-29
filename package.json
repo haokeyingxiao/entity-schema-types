@@ -1,0 +1,7 @@
+{
+    "name": "@haokeyingxiao/entity-schema-types",
+    "version": "5.8.7",
+    "description": "TypeScript definition file for the corresponding entity schema",
+    "license": "MIT",
+    "types": "entity-schema-definition.d.ts"
+}
